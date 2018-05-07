@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "autoprefixer": "^5.2.0",
-    "onchange": "^1.1.0",
+    "onchange": "^4.0.0",
     "postcss-cli": "^1.4.0"
   }
 }
